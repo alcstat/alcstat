@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💬 You can send me a message [here](https://t.me/alcstat).
-[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 <!--
 **alcstat/alcstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
