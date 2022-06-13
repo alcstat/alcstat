@@ -10,7 +10,12 @@
   <a href="https://t.com/alcstat">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="[https://t.com/alcstat](https://www.researchgate.net/profile/Alireza-Ghorbani-3)">
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
+ 
+ 
 </p>
 
 <p align='center'>
