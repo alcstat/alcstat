@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+💬 You can send me a message [here](https://t.me/alcstat).
+
 <!--
 **alcstat/alcstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
