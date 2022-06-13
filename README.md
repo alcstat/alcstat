@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 You can send me a message :
+💬 How to reach me: 
 
  <p align='center'>
   
