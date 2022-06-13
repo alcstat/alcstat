@@ -12,6 +12,16 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+</p>
+
 <!--
 **alcstat/alcstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
