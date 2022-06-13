@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me:: 
+💬 Send me a message here:
 
  <p align='center'>
   
@@ -29,7 +29,7 @@
 -->
 
 
-<p align='center'>
+<p align='left'>
   📫 How to reach me: <a href='mailto:alcstat@outlook.com'>alcstat@outlook.com</a>
 </p>
 
