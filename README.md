@@ -30,7 +30,8 @@
 
 
 <p align='left'>
-  📫 How to reach me: <a href='mailto:alcstat@outlook.com'>alcstat@outlook.com</a>
+  📫 How to reach me: 
+ <a href='mailto:alcstat@outlook.com'>alcstat@outlook.com</a>
 </p>
 
 <!--
